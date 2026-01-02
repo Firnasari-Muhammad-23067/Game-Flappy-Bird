@@ -13,4 +13,24 @@ Game Flappy Bird – Star Level Edition adalah permainan sederhana di mana pemai
   
 Selama bermain, pemain dapat mengumpulkan bintang yang muncul di layar. Setiap 5 bintang yang berhasil dikumpulkan akan menaikkan level permainan, dengan maksimal hingga level 10. Semakin tinggi level, kecepatan rintangan akan semakin meningkat sehingga permainan menjadi lebih sulit. Selain bintang, pemain juga mendapatkan skor dengan melewati pipa, namun skor tersebut tidak memengaruhi kenaikan level.
 
-##
+## ## Aturan Permainan
+1. Burung akan jatuh secara otomatis akibat gravitasi.
+2. Tekan spasi atau klik mouse untuk membuat burung terbang ke atas.
+3. Pemain harus menghindari pipa dan duri (spike).
+4. Pemain harus menjaga agar burung tetap berada di dalam area layar.
+Game akan berakhir jika burung menabrak rintangan atau keluar dari layar.
+
+## Sistem Skor dan Level
+1. Melewati satu pipa: +1 skor
+2. Mengambil satu bintang: +5 skor
+3. Level akan meningkat setiap 10 skor
+4. Semakin tinggi level, kecepatan rintangan akan meningkat
+
+
+## Panduan Lengkap Menjalankan Game Flappy Bird
+1. Gambaran Umum
+   Game Flappy Bird ini dibuat menggunakan:
+   - Bahasa pemrograman Python
+   - Library tambahan bernama Pygame
+   - Game ini harus dijalankan melalui Command Prompt (CMD) atau Terminal.
+   - Aplikasi Visual Studio Code (VS Code) tidak wajib, tetapi sangat disarankan karena memudahkan pengguna pemula.
