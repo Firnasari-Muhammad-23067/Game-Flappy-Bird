@@ -13,3 +13,4 @@ Game Flappy Bird – Star Level Edition adalah permainan sederhana di mana pemai
   
 Selama bermain, pemain dapat mengumpulkan bintang yang muncul di layar. Setiap 5 bintang yang berhasil dikumpulkan akan menaikkan level permainan, dengan maksimal hingga level 10. Semakin tinggi level, kecepatan rintangan akan semakin meningkat sehingga permainan menjadi lebih sulit. Selain bintang, pemain juga mendapatkan skor dengan melewati pipa, namun skor tersebut tidak memengaruhi kenaikan level.
 
+##
