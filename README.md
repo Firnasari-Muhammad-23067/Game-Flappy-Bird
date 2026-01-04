@@ -29,3 +29,41 @@ Selama bermain, pemain dapat mengumpulkan bintang yang muncul di layar. Setiap 5
    - Aplikasi Command Prompt (CMD), (sudah otomatis ada di Windows)
    - Visual Studio Code (opsional, tapi direkomendasikan)
 
+3. Menginstal Python (Langkah Paling Penting)
+3.1 Mengunduh Python
+   - Buka browser (Chrome / Edge / Firefox)
+   - Kunjungi situs resmi: python.org
+   - Pilih menu Download
+   - Unduh versi Python terbaru
+3.2 Menginstal Python
+   - Klik dua kali file installer Python
+   - WAJIB mencentang opsi (Add Python to PATH)
+   - Klik Install Now
+   - Tunggu hingga proses instalasi selesai
+   - Klik Close
+   Jika opsi Add Python to PATH tidak dicentang, game tidak akan bisa dijalankan
+3.3 Mengecek Python Sudah Terpasang
+   - Tekan tombol Windows + R
+   - Ketik cmd, lalu tekan Enter
+   - Akan muncul jendela hitam (Command Prompt)
+   - Ketik perintah untuk mengecek Python
+   Jika Python terpasang dengan benar, akan muncul informasi versi Python.
+
+4. Menyiapkan File Game
+4.1 Mengunduh File Game
+   - Unduh file game dari GitHub (atau sumber yang diberikan)
+   - File biasanya berbentuk ZIP
+4.2 Mengekstrak File
+    - Klik kanan pada file ZIP
+    - Pilih Extract Here atau Extract All
+    - Akan terbentuk sebuah folder game
+4.3 Struktur Folder Game
+    Di dalam folder game harus terdapat:
+    - File utama game (file Python)
+    - File gambar:
+      . background
+      . burung
+      . pipa
+      . bintang
+    Semua file HARUS berada dalam satu folder yang sama, Jika ada file gambar yang hilang atau berada di folder lain, game tidak akan berjalan.
+
