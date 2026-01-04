@@ -101,4 +101,25 @@ Sekarang semua file game akan terlihat di layar VS Code.
    - Tekan Enter
    - Jika berhasil Jendela game Flappy Bird akan muncul
    - Game siap dimainkan
+  
+8. Menjalankan Game Tanpa VS Code (Alternatif)
+   Jika tidak menggunakan VS Code:
+   - Buka folder game
+   - Klik pada bagian kosong di folder
+   - Tekan Shift + Klik Kanan
+   - Pilih Open Command Prompt here
+   - Jalankan file game menggunakan Python
+   Cara ini cocok jika pengguna hanya ingin memainkan game tanpa melihat kode.
 
+9. Aturan Permainan
+  - Burung akan jatuh secara otomatis akibat gravitasi.
+  - Tekan spasi atau klik mouse untuk membuat burung terbang ke atas.
+  - Pemain harus menghindari pipa dan duri (spike).
+  - Pemain harus menjaga agar burung tetap berada di dalam area layar.
+  - Game akan berakhir jika burung menabrak rintangan atau keluar dari layar.
+
+10. Sistem Skor dan Level
+  - Melewati satu pipa: +1 skor
+  - Mengambil satu bintang: +5 skor
+  - Level akan meningkat setiap 10 skor
+  - Semakin tinggi level, kecepatan rintangan akan meningkat
