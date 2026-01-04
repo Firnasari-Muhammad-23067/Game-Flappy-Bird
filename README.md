@@ -67,3 +67,38 @@ Selama bermain, pemain dapat mengumpulkan bintang yang muncul di layar. Setiap 5
       . bintang
     Semua file HARUS berada dalam satu folder yang sama, Jika ada file gambar yang hilang atau berada di folder lain, game tidak akan berjalan.
 
+5. Menggunakan Visual Studio Code (Disarankan untuk Pemula)
+5.1 Menginstal Visual Studio Code
+    - Buka browser
+    - Kunjungi code.visualstudio.com
+    - Unduh VS Code
+    - Instal seperti aplikasi biasa
+5.2 Membuka Folder Game di VS Code
+    - Buka aplikasi Visual Studio Code
+    - Pilih menu File
+    - Pilih Open Folder
+    - Pilih folder game
+    - Klik Select Folder
+Sekarang semua file game akan terlihat di layar VS Code.
+
+6. Menginstal Library Pygame
+   Game ini membutuhkan library tambahan bernama Pygame.
+6.1 Membuka Terminal di VS Code
+   - Di VS Code, klik menu Terminal
+   - Pilih New Terminal
+   - Terminal akan muncul di bagian bawah layar
+6.2 Menginstal Pygame
+   - Ketik perintah untuk menginstal Pygame
+   - Tekan Enter
+   - Tunggu hingga proses selesai
+  Proses ini hanya dilakukan satu kali saja
+
+7. Menjalankan Game (Cara Utama)
+7.1 Menjalankan dari VS Code
+   - Pastikan Terminal masih terbuka
+   - Pastikan posisi Terminal berada di folder game
+   - Jalankan file utama game menggunakan Python
+   - Tekan Enter
+   - Jika berhasil Jendela game Flappy Bird akan muncul
+   - Game siap dimainkan
+
